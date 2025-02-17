@@ -1,5 +1,9 @@
 {
   "extends": ["config:base"],
   "enabled": true,
-  "mode": "pr"
+  "mode": "pr",
+  "vulnerabilityAlerts": {
+    "labels": ["security"],
+    "automerge": false
+  }
 }

@@ -22,7 +22,7 @@ gem "faker"
 
 gem "wicked_pdf", "~> 2.1"
 
-gem "concurrent-ruby", "1.3.4"
+gem "concurrent-ruby", "1.3.5"
 gem "deface"
 gem "image_processing"
 gem "newrelic_rpm"

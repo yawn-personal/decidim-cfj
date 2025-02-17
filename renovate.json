@@ -1,5 +1,5 @@
 {
   "extends": ["config:base"],
-  "onboarding": false,
-  "enabled": true
+  "enabled": true,
+  "mode": "pr"
 }
